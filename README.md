@@ -5,7 +5,7 @@
 This udpated version of the flashcard app allows you to save flashcards and switch amoung them. 
 
 ### App Walk-though
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/78508685/111832567-57edbe00-88c7-11eb-8948-62ab501eda0a.gif)
+![Week5](https://user-images.githubusercontent.com/78508685/111832949-cfbbe880-88c7-11eb-8969-7ed722ab542e.gif)
 
 ## Required
 - [x] User can browse through multiple flashcards
